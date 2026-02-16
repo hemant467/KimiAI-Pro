@@ -32,7 +32,7 @@ It is a **structured AI Operating Environment**.
 - [Roadmap](#-roadmap)
 - [Credits](#-credits)
 
-# 🎯 Why KimiAI Pro?
+# 🎯 Why KimiAI Pro ⁉️
 
 Unlike basic AI chat applications, KimiAI Pro delivers:
 
